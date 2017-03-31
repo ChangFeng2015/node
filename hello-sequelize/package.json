@@ -1,0 +1,19 @@
+{
+  "name": "hello-sequelize",
+  "version": "0.0.1",
+  "description": "hello sequelize example with async",
+  "main": "app.js",
+  "scripts": {
+    "start":"node start.js"
+  },
+  "keywords": [
+    "sequelize",
+    "async"
+  ],
+  "author": "Dave King",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "3.30.3",
+    "mysql": "2.13.0"
+  }
+}
